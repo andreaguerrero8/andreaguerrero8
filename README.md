@@ -2,13 +2,13 @@
 <h2 align="center">Frontend Developer <br><br>
   Apasioanada por aprender cada día más y en proceso de crecimiento en el mundo de la programación <br><br></h3> 
 
-- 🌱 Actualmente estoy aprendiendo y reforzando **ReactJS, JavaScript**
+- 🌱 Actualmente trabajando y reforzando mis habilidades en **ReactJS, JavaScript**
 
-- 💬 Puedes preguntarme acerca de **JavaScript, HTML, CSS,**
+- 💬 Puedes preguntarme acerca de **JavaScript, HTML, CSS, ReactJs, API**
 
 - 📫 Puedes contactartarme a traves de **andreaguerrero.ar@gmail.com**
 
-- 📄 Tengo experiencia (Trainne) en  [Academia Geek](https://academiageek.co/), [Asesoftware S.A.S](http://asesoftware.com/)
+- 📄 Tengo experiencia (Trainne) en  [Academia Geek](https://academiageek.co/), [Asesoftware S.A.S](http://asesoftware.com/), [Apiruns](https://apiruns.com/)
 
 - ⚡ Amo **Aprender, Reir, Cantar, Colaborar**
 
