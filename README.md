@@ -8,7 +8,14 @@
 
 - 📫 Puedes contactartarme a traves de **andreaguerrero.ar@gmail.com**
 
-- 📄 Tengo experiencia (Trainne) en  [Academia Geek](https://academiageek.co/), [Asesoftware S.A.S](http://asesoftware.com/), [Apiruns](https://apiruns.com/)
+- 📄 Tengo experiencia en:
+
+  -[Apiruns](https://apiruns.com/), (Frontend Developer)
+  
+  -[Academia Geek](https://academiageek.co/),  (Trainne)
+  
+  -[Asesoftware S.A.S](http://asesoftware.com/), (Trainne) 
+ 
 
 - ⚡ Amo **Aprender, Reir, Cantar, Colaborar**
 
